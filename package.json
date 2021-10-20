@@ -1,0 +1,33 @@
+{
+  "name": "@potentii/math-utils",
+  "version": "1.0.0",
+  "description": "Math utilities",
+  "author": "Guilherme Reginaldo Ruella <potentii@gmail.com>",
+  "license": "MIT",
+  
+  "main": "main.mjs",
+  "type": "module",
+  
+  "scripts": {
+  },
+
+  "files": [
+    "main.mjs",
+    "libs/**/*",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "math",
+    "utils"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Potentii/math-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Potentii/math-utils/issues"
+  },
+  "homepage": "https://github.com/Potentii/math-utils#readme"
+  
+}
