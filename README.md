@@ -1,6 +1,6 @@
-# Geometry Utils
+# Math Utils
 
-> Geometry utilities
+> Math utilities
 
 <br>
 
